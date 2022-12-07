@@ -21,7 +21,7 @@ Git — система управления версиями с распреде
 10. git revert <id> - Откат заданного коммита
 11. git checkout -b new_branch_name - Создание новой ветки и переход в неё
 12. git branchv - Просмотр списка веток
-13. git branch -d existing_branch_name - Джун молодец, джун сломал
+13. git branch -d existing_branch_name - удадение ветки
 
 \*Более развернутый список команд вы можете найти по ссылке:\* 
 <https://habr.com/ru/company/ruvds/blog/599929/>
@@ -32,3 +32,6 @@ Markdown - это легковесный язык разметки текста 
 
 ## Синтаксис Markdown
 <https://habr.com/ru/company/ruvds/blog/599929/>
+
+## Пытаемся создать конфликт
+сеньер написал код
