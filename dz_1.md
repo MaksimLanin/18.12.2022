@@ -27,5 +27,8 @@ Git — система управления версиями с распреде
 <https://habr.com/ru/company/ruvds/blog/599929/>
 
 # Markdown
+Markdown - это легковесный язык разметки текста для веба. Был создан для удобства чтения и написания размеченных текстов. Движок markdown генерирует валидный XHTML. Авторы - John Gruber и Aaron Swartz.
+*******
 
 ## Синтаксис Markdown
+<https://habr.com/ru/company/ruvds/blog/599929/>
